@@ -1,0 +1,4 @@
+ipykernel
+ollama
+openpyxl
+tqdm
